@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HtmlAgilityPack.CssSelectors</id>
+    <version>1.0.0</version>
+    <authors>Henrique</authors>
+    <owners>Henrique</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HtmlAgilityPack.CssSelectors provides an Extension Method for HtmlAgilityPack HtmlDocument and HtmlNode classes. 
+It is a handy tool for Web Scrapers, and a good alternative to HAP XPath queries.</description>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="HtmlAgilityPack" version="1.4.9" />
+    </dependencies>
+  </metadata>
+</package>

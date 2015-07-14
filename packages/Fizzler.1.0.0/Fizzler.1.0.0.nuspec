@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Fizzler</id>
+    <version>1.0.0</version>
+    <title>Fizzler</title>
+    <authors>Atif Aziz,  Colin Ramsay</authors>
+    <owners>Atif Aziz,  Colin Ramsay</owners>
+    <licenseUrl>http://www.gnu.org/licenses/lgpl.html</licenseUrl>
+    <projectUrl>https://fizzler.googlecode.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Fizzler is a W3C Selectors parser and generic selector framework for document hierarchies.</description>
+    <summary>W3C Selectors Engine for Microsoft .NET Framework</summary>
+    <copyright>Copyright (c) 2009 Atif Aziz, Colin Ramsay. All rights reserved.</copyright>
+    <tags>selectors w3c</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework2.0">
+        <dependency id="LinqBridge" version="1.3.0" />
+      </group>
+      <group targetFramework=".NETFramework3.5" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,54 @@
+e:\documents\visual studio 2013\Projects\web scraper\web scraper\bin\Debug\web scraper.exe.config
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\obj\Debug\web scraper.csprojResolveAssemblyReference.cache
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\web scraper.exe
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\web scraper.pdb
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\obj\Debug\web scraper.exe
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\obj\Debug\web scraper.pdb
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\EntityFramework.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\EntityFramework.SqlServer.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Fizzler.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\FluentSharp.CoreLib.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\FluentSharp.HtmlAgilityPack.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\FluentSharp.HtmlAgilityPack.WinForms.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\FluentSharp.WinForms.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\FluentSharp.Xml.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlAgilityPack.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlCleanser.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Newtonsoft.Json.dll
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\EntityFramework.xml
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\EntityFramework.SqlServer.xml
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Fizzler.xml
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlAgilityPack.pdb
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlAgilityPack.xml
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+e:\Documents\Visual Studio 2013\Projects\web scraper\web scraper\bin\Debug\Newtonsoft.Json.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\web scraper.exe.config
+E:\Apps scraper\web scraper\web scraper\obj\Debug\web scraper.exe
+E:\Apps scraper\web scraper\web scraper\obj\Debug\web scraper.pdb
+E:\Apps scraper\web scraper\web scraper\bin\Debug\web scraper.exe
+E:\Apps scraper\web scraper\web scraper\bin\Debug\web scraper.pdb
+E:\Apps scraper\web scraper\web scraper\bin\Debug\EntityFramework.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\EntityFramework.SqlServer.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Fizzler.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\FluentSharp.CoreLib.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\FluentSharp.HtmlAgilityPack.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\FluentSharp.HtmlAgilityPack.WinForms.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\FluentSharp.WinForms.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\FluentSharp.Xml.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlAgilityPack.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlCleanser.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Newtonsoft.Json.dll
+E:\Apps scraper\web scraper\web scraper\bin\Debug\EntityFramework.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\EntityFramework.SqlServer.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Fizzler.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlAgilityPack.pdb
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlAgilityPack.xml
+E:\Apps scraper\web scraper\web scraper\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+E:\Apps scraper\web scraper\web scraper\bin\Debug\Newtonsoft.Json.xml
+E:\Apps scraper\web scraper\web scraper\obj\Debug\web scraper.csprojResolveAssemblyReference.cache

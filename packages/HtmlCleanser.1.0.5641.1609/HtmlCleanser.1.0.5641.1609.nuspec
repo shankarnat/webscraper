@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HtmlCleanser</id>
+    <version>1.0.5641.1609</version>
+    <title>HtmlCleanser</title>
+    <authors>Luke Schafer (@lukeschafer)</authors>
+    <owners>Luke Schafer (@lukeschafer)</owners>
+    <projectUrl>https://github.com/lukeschafer/HtmlCleanser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HTML Cleaner and Pre-mailer for .Net</description>
+    <tags>HTML premail premailer cleaner htmlagilitypack</tags>
+    <dependencies>
+      <dependency id="Fizzler.Systems.HtmlAgilityPack" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
