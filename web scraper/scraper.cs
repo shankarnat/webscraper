@@ -34,6 +34,7 @@ namespace web_scraper
         public void scrapesite(Queue <string> q1)
         {
              int i = 0;
+             List<outputmodel> lstapps = new List<outputmodel>(); 
 
             Parallel.ForEach(q1, q =>
          {
@@ -56,23 +57,38 @@ namespace web_scraper
                }
             }
             
-          
-          //  HtmlNode node = html.DocumentNode.SelectSingleNode("//div[@class=\"document-title\"]//div");
-          //  System.Console.WriteLine(node.InnerText);
-            
+          // Catch exception, if so replace div with h1
+           try
+           {
+               HtmlNode node = html.DocumentNode.SelectSingleNode("//div[@class=\"document-title\"]//div");
+               System.Console.WriteLine("B" + node.InnerText);
+           }
+           catch
+           {
+               try
+               {
+                   HtmlNode node = html.DocumentNode.SelectSingleNode("//h1[@class=\"document-title\"]//div");
+                   System.Console.WriteLine("A" +node.InnerText);
+                }
+               catch (Exception ex)
+               {
+                   System.Console.WriteLine(ex);
+               }
+           }
+          //  
+  /*          
             HtmlNode node1 = html.DocumentNode.SelectSingleNode("//a[@class=\"document-subtitle primary\"]//span");
-      //      System.Console.WriteLine(node1.InnerText);
-
+            System.Console.WriteLine(node1.InnerText);
             HtmlNode node2 = html.DocumentNode.SelectSingleNode("//a[@class=\"document-subtitle category\"]//span");
-      //      System.Console.WriteLine(node2.InnerText);
+            System.Console.WriteLine(node2.InnerText);
 
             HtmlNode node3 = html.DocumentNode.SelectSingleNode("//span[@class=\"reviews-num\"]");
-    //        System.Console.WriteLine(node3.InnerText);
+            System.Console.WriteLine(node3.InnerText);
             HtmlNode node4 = html.DocumentNode.SelectSingleNode("//div[@class=\"score\"]");
-     //       System.Console.WriteLine(node4.InnerText);
+            System.Console.WriteLine(node4.InnerText);
             HtmlNode node5 = html.DocumentNode.SelectSingleNode("//div[@itemprop=\"numDownloads\"]");
-     //       System.Console.WriteLine(node5.InnerText);
-
+            System.Console.WriteLine(node5.InnerText);
+*/
          /*   foreach (string s in q1)
             {
                 Console.WriteLine(s);
